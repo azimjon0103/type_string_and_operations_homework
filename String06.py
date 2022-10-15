@@ -7,5 +7,5 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    return s*3
+    return s*n
 print(main('code',3))    
