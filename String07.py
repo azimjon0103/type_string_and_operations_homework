@@ -6,5 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return len('')
+    return str('')
 print(main())    
