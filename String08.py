@@ -6,5 +6,6 @@ def main(first,last):
         last: str
     Returns:
         str: return answer.
-    """
-    return 
+    """ 
+    return last+','+first
+print(main('Otabek','Tursunov'))
